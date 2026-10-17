@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Tarihi Kemeraltı Çarşısı & Konak Meydanı",
+    "category_badge": "Tarih & Kültür",
+    "badge_icon": "fa-solid fa-landmark",
+    "image": "https://images.unsplash.com/photo-1589561253898-768105ca91a8?auto=format&fit=crop&w=800&q=80&fm=webp",
+    "description": "17. yüzyıldan günümüze kadar ulaşan Kemeraltı Çarşısı, dünyanın en büyük açık hava alışveriş merkezlerinden biridir. 1901 yılında inşa edilen simgesel Saat Kulesi'nin bulunduğu Konak Meydanı'ndan başlayan bu rota; hanlar, bedestenler, baharatçılar ve tarihi kahvehanelerle doludur. Çarşının dar sokaklarında kaybolurken Kızlarağası Hanı'nda fincanda pişen Türk kahvesini yudumlayabilir ve Osmanlı mimarisinin zarafetini keşfedebilirsiniz.",
+    "target_url": "#kemeralti-konak",
+    "button_text": "Çarşı Roverlap ve Detayları"
+  },
+  {
+    "id": 2,
+    "title": "Alsancak Kordon Boyu & Tarihi Asansör",
+    "category_badge": "Şehir Yaşamı & Manzara",
+    "badge_icon": "fa-solid fa-building-columns",
+    "image": "https://images.unsplash.com/photo-1541432901042-2d8bd64b4a9b?auto=format&fit=crop&w=800&q=80&fm=webp",
+    "description": "İzmir kent kültürünün ve sosyal yaşamının kalbi sayılan Kordon Boyu, yeşil çimleri ve palmiyeleriyle Körfez boyunca uzanır. Gün batımında çimlerde oturup körfezi izlemek ikonik bir İzmir geleneğidir. Rotanızı Karataş semtine çevirdiğinizde ise 1907 yılında Nesim Levi tarafından yaptırılan Tarihi Asansör ile karşılaşır, 58 metre yüksekteki seyir terasından tüm İzmir Körfezi'ni büyüleyici bir açıdan seyredebilirsiniz.",
+    "target_url": "#kordon-asansor",
+    "button_text": "Kordon Gezi Rehberi"
+  },
+  {
+    "id": 3,
+    "title": "Efes Antik Kenti & Şirince Köyü",
+    "category_badge": "UNESCO Dünya Mirası",
+    "badge_icon": "fa-solid fa-monument",
+    "image": "https://images.unsplash.com/photo-1608889825103-eb5ed706fc64?auto=format&fit=crop&w=800&q=80&fm=webp",
+    "description": "Selçuk ilçesinde yer alan Efes Antik Kenti, Roma Dönemi'nin en ihtişamlı metropollerinden biridir. Celsus Kütüphanesi, 25 bin kişilik Antik Tiyatro ve Yamaç Evler bölgenin göz alıcı yapıları arasındadır. Efes turunun ardından sadece 15 dakika mesafedeki yeşillikler içine gizlenmiş Şirince Köyü'ne geçerek geleneksel Rum mimarisine sahip taş evler arasında yürüyebilir, meyve şarapları ve mürver şurubu tadabilirsiniz.",
+    "target_url": "#efes-sirince",
+    "button_text": "Antik Kent Turlarını İncele"
+  },
+  {
+    "id": 4,
+    "title": "Çeşme & Alaçatı Taş Sokakları",
+    "category_badge": "Deniz & Gastronomi",
+    "badge_icon": "fa-solid fa-umbrella-beach",
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80&fm=webp",
+    "description": "Ege Denizi'nin berrak suları ve rüzgar sörfüne elverişli koylarıyla ünlü Çeşme yarımadası, tatilcilerin gözbebeğidir. Cumbalı taş evleri, begonvillerle kaplı dar sokakları ve tarihi yel değirmenleri ile Alaçatı, hem zengin Ege gastronomisi hem de özgün butik otelleriyle öne çıkar. Ilıca Plajı'nın termal kaynaklı ılık sularında yüzebilir veya Çeşme Kalesi Müzesi'nde bölgenin bahriye tarihine tanıklık edebilirsiniz.",
+    "target_url": "#cesme-alacati",
+    "button_text": "Çeşme Koyları & Gezi Notları"
+  }
+]
