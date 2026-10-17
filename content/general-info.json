@@ -1,0 +1,24 @@
+{
+  "title": "İzmir Gezi Rehberi: Ege'nin İncisinde Keşfedilecek En Özel Rotalar",
+  "subtitle": "Binlerce Yıllık Tarih, İyot Kokulu Sahiller ve Yaşam Dolu Sokaklar",
+  "description": "Antik Çağ'dan günümüze Akdeniz'in en önemli liman kentlerinden biri olan İzmir; Palmiye ağaçlarıyla süslü Kordon Boyu, tarihi Osmanlı çarşıları, taş mimarili Ege köyleri ve benzersiz gastronomisiyle unutulmaz bir tatil deneyimi sunuyor. Şehrin büyüleyici atmosferini, pratik ulaşım ipuçları ve detaylı lokasyon bilgileriyle adım adım keşfedin.",
+  "badge": "Ege Kültür & Doğa Rehberi",
+  "badge_icon": "fa-solid fa-sun",
+  "travel_tips": [
+    {
+      "icon": "fa-solid fa-train-tram",
+      "title": "Ulaşım & İzmirim Kart",
+      "detail": "Adnan Menderes Havalimanı'ndan şehir merkezine ulaşım için İZBAN banliyö tren hattı en hızlı seçenektir. Şehir içi otobüs, metro, tramvay ve Vapur geçişlerinde geçerli İzmirim Kart alarak Alsancak-Karşıyaka arasında keyifli vapur seferlerini mutlaka deneyimleyin."
+    },
+    {
+      "icon": "fa-solid fa-calendar-days",
+      "title": "Ziyaret İklimi & Sezon",
+      "detail": "İzmir'i ziyaret etmek için en konforlu dönem bahar aylarıdır (Nisan-Mayıs ve Eylül-Ekim). Yaz aylarında sıcaklık yükseldiği için tarihi merkez turlarını sabah erken saatlerde planlayıp öğleden sonraları Çeşme, Urla veya Foça sahillerine ayırabilirsiniz."
+    },
+    {
+      "icon": "fa-solid fa-utensils",
+      "title": "Ege Gastronomisi",
+      "detail": "Güne Alsancak fırınlarından taze çıkmış gevrek ve boyoz ile başlayın. Tarihi Kemeraltı Çarşısı'nda söğüş ve şambali tatlısı yedikten sonra Urla bağ yolunda Ege otları ve zeytinyağlı mezelere eşlik eden gurme akşam yemeklerinin tadını çıkarın."
+    }
+  ]
+}
