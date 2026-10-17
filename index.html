@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>İzmir Gezi Rehberi - Gezi Rotası</title>
+  <meta name="description" content="İzmir'de gezilecek en güzel yerler, tarihi ve turistik rotalar, Ege mutfağı lezzetleri, ulaşım hatları ve pratik seyahat ipuçları.">
+  
+  <!-- Fonts & Icons -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  
+  <!-- Custom Style -->
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body class="min-h-screen flex flex-col justify-between">
+
+  <!-- Header / Navigation -->
+  <header class="bg-white border-b border-slate-200 sticky top-0 z-50">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
+      <a href="#" class="flex items-center gap-2 font-extrabold text-xl text-slate-900 tracking-tight">
+        <i class="fa-solid fa-compass text-emerald-600 text-2xl"></i>
+        <span>Gezi Rotası</span>
+      </a>
+      <nav class="hidden md:flex items-center gap-6 font-medium text-sm text-slate-600">
+        <a href="#rehber" class="hover:text-emerald-600 transition">Şehir Rehberi</a>
+        <a href="#yerler" class="hover:text-emerald-600 transition">Öne Çıkan Rotalar</a>
+        <a href="#ipuclari" class="hover:text-emerald-600 transition">Ulaşım & İpuçları</a>
+      </nav>
+      <a href="#yerler" class="cta-affiliate-btn !w-auto !py-2 !px-4 text-xs sm:text-sm">
+        <i class="fa-solid fa-map-location-dot"></i> Rotaları Keşfet
+      </a>
+    </div>
+  </header>
+
+  <!-- Top Ad Banner -->
+  <div class="ad-banner-top">
+    <span>— Reklam Alanı (970x90) —</span>
+  </div>
+
+  <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex-grow w-full py-6">
+    
+    <!-- Hero Section (Dinamik Render) -->
+    <section class="mb-12 text-center max-w-4xl mx-auto">
+      <span id="hero-badge" class="inline-flex items-center gap-1.5 px-3.5 py-1.5 rounded-full text-xs font-bold bg-emerald-50 text-emerald-700 border border-emerald-200 mb-4 shadow-sm">
+        <!-- JS ile doldurulacak -->
+      </span>
+      <h1 id="hero-title" class="text-3xl sm:text-5xl font-extrabold text-slate-900 tracking-tight leading-tight mb-4">
+        <!-- JS ile doldurulacak -->
+      </h1>
+      <p id="hero-description" class="text-slate-600 text-base sm:text-lg leading-relaxed">
+        <!-- JS ile doldurulacak -->
+      </p>
+    </section>
+
+    <!-- General Info / Travel Tips Section (Dinamik Render) -->
+    <section id="rehber" class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-12">
+      <!-- JS ile Ulaşım, İklim, Lezzet rehberi kartları eklenecek -->
+    </section>
+
+    <!-- In-Article Banner -->
+    <div class="ad-in-article">
+      <span>— Sponsorlu / Banner Reklam Alanı —</span>
+    </div>
+
+    <!-- Categories / Destination Cards Section -->
+    <section id="yerler" class="my-12">
+      <div class="flex flex-col md:flex-row md:items-end justify-between mb-8">
+        <div>
+          <h2 class="text-2xl sm:text-3xl font-bold text-slate-900">İzmir'in En Simgesel Gezi Noktaları</h2>
+          <p class="text-slate-500 text-sm mt-1">Tarihi arastalardan kıyı kasabalarına, Ege'nin kalbinde keşfetmeniz gereken özel yerler</p>
+        </div>
+      </div>
+
+      <!-- Dynamic Destination Cards Container -->
+      <div id="categories-container" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-8">
+        <!-- JS dinamik olarak kartları buraya işleyecek -->
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Footer -->
+  <footer class="bg-slate-900 text-slate-400 py-10 mt-16 border-t border-slate-800">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center text-sm">
+      <p class="font-semibold text-slate-200 mb-2">Gezi Rotası — Modüler Mikro-Site Platformu</p>
+      <p>© 2026 Gezi Rotası. Tüm hakları saklıdır.</p>
+    </div>
+  </footer>
+
+  <!-- Main Application Script -->
+  <script src="assets/js/app.js"></script>
+</body>
+  </html>
