@@ -5,7 +5,7 @@ const SPOT_DATA = {
     "category": "Ege & Deniz",
     "hero": {
         "badge": "Ege'nin İncisi",
-        "coverImage": "https://images.unsplash.com/photo-1589030343991-69ea1433b941?auto=format&fit=crop&w=1600&q=80&fm=webp",
+        "coverImage": "https://images.unsplash.com/photo-1563298723-dcfebaa392e3?auto=format&fit=crop&w=1600&q=80&fm=webp",
         "stats": [
             {
                 "label": "Ziyaretçi",
@@ -128,7 +128,7 @@ const SPOT_DATA = {
         "title": "Ulaşım Bilgileri",
         "tip": "Şehir içi toplu taşıma kartlarını kullanarak tüm turistik mekanlara kolayca ulaşabilirsiniz.",
         "mapUrl": "https://maps.google.com/?q=İzmir+Turkey",
-        "mapBgImage": "https://images.unsplash.com/photo-1589030343991-69ea1433b941?auto=format&fit=crop&w=1600&q=80&fm=webp",
+        "mapBgImage": "https://images.unsplash.com/photo-1590073844006-33379778ae09?auto=format&fit=crop&w=1200&q=80&fm=webp&q=izmir,turkey",
         "methods": [
             {
                 "icon": "fa-solid fa-plane",
