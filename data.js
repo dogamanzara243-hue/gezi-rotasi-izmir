@@ -24,7 +24,42 @@ const SPOT_DATA = {
         paragraphs: ["İzmir, masmavi sahil şeridi, palmiyelerle süslü Kordon Boyu ve büyüleyici antik kentleriyle Ege'nin en sıcak kenti olarak öne çıkar.", "Tarihi Kemeraltı Çarşısı'nda alışveriş yapabilir, Konak Meydanı'ndaki simge Saat Kulesi önünde fotoğraf çektirebilir ve UNESCO Dünya Mirası Efes Antik Kenti'ni keşfedebilirsiniz."],
         visitorNotes: [{"label": "En İyi Zaman", "value": "Mayıs - Ekim"}, {"label": "Ulaşım", "value": "İzban & Tramvay Son Derece Pratik"}, {"label": "Neyi Yemeli", "value": "Boyoz, Kumru ve Lokma"}]
     },
-    whyVisit: {"title": "Neden İzmir'e Gitmelisiniz?", "subtitle": "Deniz kokan sokaklar ve binlerce yıllık uygarlıklar", "cards": [{"icon": "fa-solid fa-umbrella-beach", "title": "Kordon & Alsancak", "description": "Çimlerde gün batımını izlemek ve Ege esintisini hissetmek için benzersiz bir sahil."}, {"icon": "fa-solid fa-monument", "title": "Efes Antik Kenti", "description": "Dünyanın en iyi korunmuş antik kentlerinden biri ve Celsus Kütüphanesi."}, {"icon": "fa-solid fa-store", "title": "Tarihi Kemeraltı Çarşısı", "description": "Labirent gibi sokakları, hanları ve lezzet duraklarıyla tarihi alışveriş merkezi."}]},
+    
+    whyVisit: {
+        title: "Izmir Keşif Rotaları",
+        subtitle: "Şehrin en gözde mekanlarını tematik kategorilere göre keşfedin",
+        cards: [
+            {
+                icon: "fa-solid fa-landmark",
+                title: "Tarihi Yerler",
+                description: "Yüzyıllık anıtlar, kaleler, müzeler ve köklü medeniyet izleri.",
+                linkText: "Tarihi Keşfet",
+                url: "#must-see-items"
+            },
+            {
+                icon: "fa-solid fa-city",
+                title: "Modern Yerler",
+                description: "Şehrin en popüler meydanları, alışveriş merkezleri ve plazas.",
+                linkText: "Moderni İncele",
+                url: "#must-see-items"
+            },
+            {
+                icon: "fa-solid fa-gem",
+                title: "Sofistike Yerler",
+                description: "Seçkin kafeler, sanat galerileri ve nezih buluşma noktaları.",
+                linkText: "Sofistike Noktalar",
+                url: "#where-to-stay-title"
+            },
+            {
+                icon: "fa-solid fa-tree",
+                title: "Doğal Güzellikler",
+                description: "Parklar, sahil şeritleri, kanyonlar ve nefis manzara noktaları.",
+                linkText: "Doğayı Gör",
+                url: "#transport-title"
+            }
+        ]
+    },
+     {"icon": "fa-solid fa-monument", "title": "Efes Antik Kenti", "description": "Dünyanın en iyi korunmuş antik kentlerinden biri ve Celsus Kütüphanesi."}, {"icon": "fa-solid fa-store", "title": "Tarihi Kemeraltı Çarşısı", "description": "Labirent gibi sokakları, hanları ve lezzet duraklarıyla tarihi alışveriş merkezi."}]},
     mustSee: {
         title: "Görülmesi Gereken Öne Çıkan Noktalar",
         items: [{"category": "Simge", "title": "İzmir Saat Kulesi", "description": "1901 yapımı Konak Meydanı'nın tarihi simgesi."}, {"category": "Tarih", "title": "Tarihi Asansör", "description": "Karataş'ta muhteşem panoramik körfez manzarası."}, {"category": "Antik", "title": "Efes & Meryem Ana", "description": "Dünya mirası antik tiyatro ve kutsal alan."}, {"category": "Köy", "title": "Şirince & Alaçatı", "description": "Taş evleri, şarapları ve rüzgar sörfü ile ünlü beldeler."}]
